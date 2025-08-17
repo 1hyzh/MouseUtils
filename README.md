@@ -6,4 +6,5 @@ A utitity to see your mouse coordinates and set them.
 # When you open the program you will see a window like this:
 
 
+<img width="1118" height="627" alt="image" src="https://github.com/user-attachments/assets/3415bc58-8a56-4c1f-a62c-7e80f83ccaf4" />
 
